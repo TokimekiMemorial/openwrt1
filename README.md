@@ -18,6 +18,7 @@ lean稳定源码版本，内核为**4.19**版
 
 ## 固件下载：
 ### 点击[Actions](https://github.com/TokimekiMemorial/openwrt/actions) 或者[Releases](https://github.com/TokimekiMemorial/openwrt/releases) 
+根据下面的格式说明选择自己需要的固件
 
 
 ## x86各种环境安装openwrt固件所使用的格式说明：

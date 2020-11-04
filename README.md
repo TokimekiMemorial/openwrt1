@@ -1,4 +1,4 @@
-# OpenWrt18.06-X86-64最新版云编译项目
+# OpenWrt-X86-64自用版云编译项目
 
 ## 固件来源：
 
@@ -6,9 +6,7 @@ P3TERX云编译脚本地址：[https://github.com/P3TERX/Actions-OpenWrt](https:
 
 lean固件源码地址：[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
 
-project-openwrt固件源码地址：[https://github.com/project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)
 
-由衷感谢所有为openwrt无私奉献的大佬们。
 
 ## 固件说明：
 
@@ -20,6 +18,7 @@ lean稳定源码版本，内核为**4.19**版，分为***自用版（openwrt-ZY�
 
 ## 固件下载：
 ### 点击[Actions](https://github.com/TokimekiMemorial/openwrt/actions) 或者[Releases](https://github.com/TokimekiMemorial/openwrt/releases) 
+
 
 ## x86各种环境安装openwrt固件所使用的格式说明：
 

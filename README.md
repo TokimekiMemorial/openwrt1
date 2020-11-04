@@ -18,10 +18,11 @@ lean稳定源码版本，内核为**4.19**版，分为***自用版（openwrt-ZY�
 
 > `ip：192.168.1.1 密码：password`
 
-## 固件下载
+## 固件下载：
 ### 点击[Actions](https://github.com/TokimekiMemorial/openwrt/actions) 或者[Releases](https://github.com/TokimekiMemorial/openwrt/releases) 
 
-## x86各种环境安装openwrt固件所使用的格式说明
+## x86各种环境安装openwrt固件所使用的格式说明：
+
 物理机内置硬盘：combined-squashfs.img.gz或uefi-gpt-squashfs.img.gz
 
 外置U盘启动：uefi-gpt-squashfs.img.gz

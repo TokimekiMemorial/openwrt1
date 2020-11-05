@@ -23,13 +23,11 @@ lean稳定源码版本，内核为**4.19**版
 
 ## x86各种环境安装openwrt固件所使用的格式说明：
 
-物理机内置硬盘：combined-squashfs.img.gz或uefi-gpt-squashfs.img.gz
+物理机内置硬盘：combined-squashfs.img
 
-外置U盘启动：uefi-gpt-squashfs.img.gz
+虚拟机启动：内置硬盘版和U盘版根据自己的虚拟机类型转换，VM虚拟机可以直接用combined-squashfs.vmdk
 
-虚拟机启动：内置硬盘版和U盘版根据自己的虚拟机类型转换，部分虚拟机可以直接用combined-squashfs.vmdk
-
-Docker环境下安装：rootfs-squashfs.img.gz
+Docker环境下安装：rootfs-squashfs.img
 
 
 

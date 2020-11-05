@@ -10,7 +10,7 @@ lean固件源码地址：[https://github.com/coolsnowwolf/lede](https://github.c
 
 ## 固件说明：
 
-lean稳定源码版本，内核为**4.19**版
+lean稳定源码版本，内核为**5.4**版
 
 自动每周五更新一次，手动不定时更新
 

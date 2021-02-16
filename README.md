@@ -1,4 +1,4 @@
-# OpenWrt-X86-64自用版云编译项目
+# OpenWrt-X86-64自用版云编译项目（暂停更新2周）
 
 https://github.com/TokimekiMemorial/openwrt
 
